@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace TestProject1
 {
-    public class Pikachu : Pokemon
+    public class Joltik : Pokemon
     {
-        public Pikachu()
-            : base("Pikachu", 1, 55, 40, 50, 50, PokemonType.Electric)
+        public Joltik()
+            : base("Joltik", 1, 47, 50, 57, 50, PokemonType.Bug, PokemonType.Electric)
         {
         }
     }
