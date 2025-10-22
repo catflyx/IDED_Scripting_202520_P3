@@ -2,6 +2,3 @@
 Solución del parcial 3 de Scripting.
 ### Integrantes
 - Simara Villasmil - 000509719
-
-# Sustentación
-...
